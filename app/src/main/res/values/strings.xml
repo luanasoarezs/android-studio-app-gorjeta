@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aplicativo Gorjeta</string>
+    <string name="hintname">Digite o valor da conta:</string>
+    <string name="text1">0%</string>
+    <string name="text2">Gorjeta</string>
+    <string name="text3">R$</string>
+    <string name="textTotal">Total:</string>
+    <string name="text4">R$</string>
+</resources>
